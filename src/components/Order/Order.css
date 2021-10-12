@@ -1,0 +1,14 @@
+.Order{
+    width:80%;
+    box-shadow: 5px 10px 10px #dab885;
+    border: 1px solid #fffbe4;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px auto;
+
+    border-radius: 5px;  
+}
+
+.Order:hover{
+    background: #fffdf0;
+}
